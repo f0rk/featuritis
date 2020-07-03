@@ -22,7 +22,7 @@ $ featuritis init
 
 To add a new feature, run the add command:
 ```!sh
-$ featuritis add ABC-123 -d "here's a nifty description"
+$ featuritis add ABC-123 -d "here's a nifty description" -a "Jimmy Rustle <jimmy@jimmyrustle.guru>"
 feature added /home/jimmy/projects/rustlers/featuritis/features/20200703023344_ABC-123_heres_a_nifty_description.py
 ```
 
